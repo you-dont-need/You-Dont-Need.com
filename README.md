@@ -14,3 +14,4 @@
 - [You Probably Don't Need Derived State (React)](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html) - As a general rule, derived state should be used sparingly. All problems with derived state that we have seen can be ultimately reduced to either unconditionally updating state from props or updating state whenever props and state don’t match.
 - [You Might Not Need Axios](https://danlevy.net/you-may-not-need-axios/) - The standard `window.fetch` has all the features you need 
 - [You Don't Need Loops ➿](https://github.com/you-dont-need/You-Dont-Need-Loops) - Loops are bullshit. Let's embrace wholemeal programming!
+- [You Might Not Need Gatsby](https://johnny.sh/blog/you-might-not-need-gatsby/) - A simpler static React stack
